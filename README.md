@@ -10,4 +10,4 @@ This skill ensures that Claude starts a conversation with a friendly tone. It is
 If you are using **Claude Code**, you can install this skill by pointing to your local directory or your GitHub repository:
 
 ```bash
-/plugin add [https://github.com/your-username/greet-skill](https://github.com/your-username/greet-skill)
+/plugin add [https://github.com/jomel-rgb/greet](https://github.com/jomel-rgb/greet)
